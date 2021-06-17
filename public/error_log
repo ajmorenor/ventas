@@ -1,0 +1,13 @@
+[16-Sep-2020 13:33:13 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/sercoamb/ventas.sercoamb.cl/app/Http/Controllers/MailController.php on line 3
+[16-Sep-2020 13:36:18 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/sercoamb/ventas.sercoamb.cl/app/Http/Controllers/MailController.php on line 2
+[16-Sep-2020 13:38:07 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/sercoamb/ventas.sercoamb.cl/app/Http/Controllers/MailController.php on line 3
+[16-Sep-2020 13:38:33 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/sercoamb/ventas.sercoamb.cl/app/Http/Controllers/MailController.php on line 3
+[16-Sep-2020 13:39:44 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/sercoamb/ventas.sercoamb.cl/app/Http/Controllers/MailController.php on line 3
+[16-Sep-2020 13:39:56 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/sercoamb/ventas.sercoamb.cl/app/Http/Controllers/MailController.php on line 3
+[16-Sep-2020 13:42:26 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/sercoamb/ventas.sercoamb.cl/app/Http/Controllers/MailController.php on line 2
+[16-Sep-2020 14:32:19 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/sercoamb/ventas.sercoamb.cl/app/Http/Controllers/MailController.php on line 3
+[19-Sep-2020 06:49:23 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/sercoamb/ventas.sercoamb.cl/app/Http/Controllers/ExcelController.php on line 3
+[19-Sep-2020 07:07:12 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/sercoamb/ventas.sercoamb.cl/app/Http/Controllers/MailController.php on line 3
+[21-Sep-2020 06:02:01 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/sercoamb/ventas.sercoamb.cl/app/Http/Controllers/MailController.php on line 3
+[21-Sep-2020 09:58:56 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/sercoamb/ventas.sercoamb.cl/app/Http/Controllers/MailController.php on line 34
+[03-Feb-2021 15:14:31 UTC] PHP Fatal error:  Call to a member function delete() on null in /home/sercoamb/ventas.sercoamb.cl/app/Http/Controllers/EmpresaController.php on line 45
